@@ -241,7 +241,6 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 
 另外，对小白来说最靠谱的投资策略是**定投策略** —— 至于具体应该如何操作，请移步[《定投改变命运》（开源第三版）](https://onregularinvesting.com)。
 
-**补充，切记BTC配置不少于50%......**
 
 ## 区块链
 
@@ -366,6 +365,8 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 
 短期投机难度非常大，绝大多数人的宿命是：“凭运气赚到的钱后来凭实力亏光了……” 所以，你只能选择长期。而后，在眼花缭乱的各种标的之间，究竟选哪个呢？在我看来，小白没什么其它的选择，要么 BTC，要么 EOS，没了！如果想要系统化的投资策略，那么先去认真阅读《[定投改变命运](https://onregularinvesting.com)》若干遍，除此之外也别无其他选择。
 
+**补充，切记BTC配置不少于50%......**
+
 ### 4. 不要相信各种专家
 
 这个领域太新，又涉及技术，又涉及金钱，所以，这个领域里真正的专家少之又少，与之相对的，骗子数不胜数 —— 并且，你很少会见到专家说别人是专家，却总是见到骗子说别人是骗子。
@@ -484,3 +485,10 @@ git push -u origin master
 > * [Bitcoin 白皮书（中英对照）](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
 > * [区块链小白书](https://blockchainlittlebook.com)
 
+### 补充
+>* [为什么投资区块链](https://m.8btc.com/article/69799)
+>* [寻找圣杯](https://m.bihu.com/article/1019497?i=9rL&c=1&s=4hdv)
+>* [这或许是个捡钱的时代](https://mp.weixin.qq.com/s/xtvFGc-dI2iEu8WnudNygw)
+>* [江卓尔 | 比特币是什么？比特币基础科普与常见误解（上）](https://mp.weixin.qq.com/s/UyvNklDFXNA0Q1s5OHlazQ)
+>* [江卓尔 | 比特币是什么？比特币基础科普与常见误解（下）](https://mp.weixin.qq.com/s/ZgwDHBrupVh36k1emEGtig)
+ 
