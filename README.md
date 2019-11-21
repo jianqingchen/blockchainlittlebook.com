@@ -4,7 +4,8 @@
 
 -----
 
-## 本文出处https://blockchainlittlebook.com， 在保留原文的情况下进行修改，修改之处都有加上醒目的修改标注。
+## 本文出处
+本文参考了李笑来写的[区块链小白](https://blockchainlittlebook.com)， 在保留原文的情况下进行修改，修改之处都有加上醒目的修改标注。
 
 ## 警告
 
