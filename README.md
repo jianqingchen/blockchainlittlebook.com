@@ -1,6 +1,6 @@
-# 区块链小白书
+# 格财自由之区块链
 
-[李笑来](http://lixiaolai.com)（著）&copy; 2019
+[陈建清](http://gecaiziyou.com)（著）&copy; 2019
 
 -----
 
